@@ -49,6 +49,7 @@ Resources:
  - https://www.insanelymac.com/forum/files/file/566-esp-mounter-pro/
  - https://github.com/corpnewt/ProperTree
  - https://github.com/corpnewt/GenSMBIOS
+ - https://www.olarila.com/topic/5676-hackintosh-efi-folders-for-all-chipsets-clover-and-opencore/
  - https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
  - https://github.com/osxfuse/osxfuse/wiki/NTFS-3G
 
