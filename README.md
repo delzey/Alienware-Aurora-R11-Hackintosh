@@ -12,7 +12,7 @@ My Hardware: Alienware Aurora R11
 This is a collection of files that worked for my setup. The credit for these files go to the resource owners used over the time it took to compile something that worked. 
 The config.plist was updated using ProperTree and following the Coffee Lake Documentation provided by Dortania (Thanks a ton!)
 
-Mostly this area is for me so that I have documentation and access. your perfoamcne and setup may not work
+Mostly this area is for me so that I have documentation and access. your performance and setup may not work
  
 Some issues:
   - Killer Wi-Fi AX1650 - did not work (Changed to Fenvi FV-T919 then to DW1830)
