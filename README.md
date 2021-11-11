@@ -14,7 +14,6 @@ BIOS Settings:
  - Reset to Default
  - Reset NVRAM on first boot (Use Opencore)
  
- Resources:
+Resources:
  https://dortania.github.io/OpenCore-Install-Guide/
- 
  https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
