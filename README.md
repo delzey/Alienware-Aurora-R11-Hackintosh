@@ -7,6 +7,7 @@ My Hardware: Alienware Aurora R11
  - AMD RX 5700 XT (ECS) 
  - 1TB Samsung 970 EVO Plus NVMe M.2 SSD 
  - Qualcomm QCA9377 (DW1810) WiFi+Bluetooth
+ - Lunar Light chassis with High- Performance CPU Liquid Cooling and 1000W Power Supply
  
 This is a collection of files that worked for me. The credit for them go to the resources used over the time it took to compile something that worked for me. 
 The config.plist was updated using ProperTree and following the Coffee Lake Documentation provided by Dortania (Thanks a ton!)
