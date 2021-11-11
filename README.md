@@ -1,5 +1,5 @@
 # Alienware-Aurora-R11-Hackintosh
- Full working Open Core version for 10th Gen Intel and macOS
+ Full working OpenCore version for 10th Gen Intel and macOS
  
  My machine: Alienware Aurora R11 with i9-10900KF, 32GB memory, RX 580, 1TB M.2 NVMe SSD, DW1830 wifi+bluetooth
  
