@@ -4,7 +4,7 @@
 My Hardware: Alienware Aurora R11
  - 10th Gen Intel Core i9 10900KF (10-Core, 20MB Cache, 3.7GHz to 5.3GHz) Commet Lake
  - 32GB Dual Channel HyperX FURY DDR4 XMP 3200MHz 
- - AMD RX 5700 XT (ECS) 
+ - AMD Radeon RX 580 Saphire 8Gb 
  - 1TB Samsung 970 EVO Plus NVMe M.2 SSD 
  - Qualcomm QCA9377 (DW1810) WiFi+Bluetooth
  - Lunar Light chassis with High- Performance CPU Liquid Cooling and 1000W Power Supply
