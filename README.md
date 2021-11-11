@@ -16,4 +16,5 @@ BIOS Settings:
  
  Resources:
  https://dortania.github.io/OpenCore-Install-Guide/
+ 
  https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
