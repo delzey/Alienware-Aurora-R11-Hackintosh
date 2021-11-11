@@ -51,3 +51,9 @@ Resources:
  - https://github.com/corpnewt/GenSMBIOS
  - https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
  - https://github.com/osxfuse/osxfuse/wiki/NTFS-3G
+
+ <img width="549" alt="Monerey" src="https://user-images.githubusercontent.com/3057585/141327390-5a9cde50-4d75-4625-b98b-7e81feabb56b.png">
+ 
+ <img width="543" alt="High Sierra" src="https://user-images.githubusercontent.com/3057585/141327453-4cbd65c5-2100-4f5e-988e-44c0ce0d91b3.png">
+
+ 
