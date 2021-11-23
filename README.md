@@ -15,7 +15,7 @@ The config.plist was updated using ProperTree and following the Ice Lake Documen
 Mostly this area is for me so that I have documentation and access. your performance and setup may not work
  
 **Some issues**:
-  - Killer Wi-Fi AX1650 - did not work (Changed to Fenvi FV-T919 then to DW1830)
+  - Killer Wi-Fi AX1650 - did not work ~~(Changed to Fenvi FV-T919 then to DW1830)~~
     - Broadcom M.2 NGFF WiFi Wireless Card BCM94360NG (All working correctly, unlock with apple watch, Apple KB & Mouse) 
   - Hynix 1Tb NVMe SSD did not work (Changed to 970 Evo Plus)
   - ~~Bluetooth not working properly (Not much time spent in troubleshooting)~~
@@ -43,8 +43,8 @@ Mostly this area is for me so that I have documentation and access. your perform
  - Second Reboot - Select new OS Drive
  - Enjoy!
 
- **Update 11/16/2021**
- Installed Broadcom M.2 NGFF WiFi Wireless Card BCM94360NG Dual Band Network adapter BT4.0 purchased from ebay and now all wireless and bluetooth abilities work perfectly. Installed right where the Killer AX160 and DW1830 was. removed the Fenvi FV-T919 from PCI Slot.
+**Update 11/16/2021**:
+Installed Broadcom M.2 NGFF WiFi Wireless Card BCM94360NG Dual Band Network adapter BT4.0 purchased from ebay and now all wireless and bluetooth abilities work perfectly. Installed right where the Killer AX1650 and DW1830 was. removed the Fenvi FV-T919 from PCI Slot.
 
 <img width="549" alt="Monerey" src="https://user-images.githubusercontent.com/3057585/141327390-5a9cde50-4d75-4625-b98b-7e81feabb56b.png">
 <img width="543" alt="High Sierra" src="https://user-images.githubusercontent.com/3057585/141327453-4cbd65c5-2100-4f5e-988e-44c0ce0d91b3.png">
