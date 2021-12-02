@@ -15,9 +15,9 @@ The config.plist was updated using ProperTree and following the Ice Lake Documen
 Mostly this area is for me so that I have documentation and access. your performance and setup may not work
  
 **Some issues**:
-  - Killer Wi-Fi AX1650 - did not work ~~(Changed to Fenvi FV-T919 then to DW1830)~~
+  - ~~Killer Wi-Fi AX1650 - did not work (Changed to Fenvi FV-T919 then to DW1830)~~
     - Broadcom M.2 NGFF WiFi Wireless Card BCM94360NG (All working correctly, unlock with apple watch, Apple KB & Mouse) 
-  - Hynix 1Tb NVMe SSD did not work (Changed to 970 Evo Plus)
+  - ~~Hynix 1Tb NVMe SSD did not work (Changed to 970 Evo Plus)~~
   - ~~Bluetooth not working properly (Not much time spent in troubleshooting)~~
   
 **BIOS Settings**: (These are my current settings, yours may be different)
