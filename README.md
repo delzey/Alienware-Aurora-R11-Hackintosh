@@ -43,6 +43,13 @@ Mostly this area is for me so that I have documentation and access. your perform
  - Second Reboot - Select new OS Drive
  - Enjoy!
 
+**Update 12/01/2021**
+I purchased from ebay the M.2 NGFF Card "Broadcom M.2 NGFF BCM94360NG WiFi+Bluetooth" which installed in place of the Killer AX1650 I had. You can find that here:
+https://www.ebay.com/itm/194178222777?hash=item2d35ec8ab9:g:UzIAAOSwKZxfDru0
+
+For the sleep issues, I installed a tool called "Amphetamine" which is free (But I donated $20). This allows the monitors to sleep. Since I replicate data from this system overnight to a different system, I do not let the system fully sleep.
+I also got the chime to work so it all looks and sound just like my old 2012 Mac Pro when it boots up.
+
 **Update 11/16/2021**:
 Installed Broadcom M.2 NGFF WiFi Wireless Card BCM94360NG Dual Band Network adapter BT4.0 purchased from ebay and now all wireless and bluetooth abilities work perfectly. Installed right where the Killer AX1650 and DW1830 was. removed the Fenvi FV-T919 from PCI Slot.
 
@@ -59,5 +66,3 @@ Installed Broadcom M.2 NGFF WiFi Wireless Card BCM94360NG Dual Band Network adap
  - https://www.olarila.com/topic/5676-hackintosh-efi-folders-for-all-chipsets-clover-and-opencore/
  - https://github.com/jianghaizhi/DELL-Alienware-Aurora-R7-macOS
  - https://github.com/osxfuse/osxfuse/wiki/NTFS-3G
-
- 
